@@ -3,7 +3,7 @@
 |commands  |  | 
 |---|---|
 |scp  |  |
-|tail -f  |  |
+|tail -f + file name |  |
 |ctrl + z  |  |
 |fg  |  |
 |jobs  |  |
