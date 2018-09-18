@@ -10,3 +10,4 @@
 |wget  |  |
 |ls -l  |  |
 | cat test.txt >> sample.txt | |
+| su - username | |
