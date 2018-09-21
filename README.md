@@ -11,3 +11,6 @@
 |ls -l  |  |
 | cat test.txt >> sample.txt | |
 | su - username | |
+| $ 行末 | |
+| d^ | |
+| d$ | |
